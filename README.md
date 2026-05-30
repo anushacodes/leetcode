@@ -1,5 +1,5 @@
 # leetcode
-Collection of LeetCode questions i've solved
+Collection of LeetCode questions i've solved (mostly Python, but also Go)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
