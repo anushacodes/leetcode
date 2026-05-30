@@ -6,6 +6,7 @@ Collection of LeetCode questions i've solved
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Greedy
@@ -16,4 +17,12 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
