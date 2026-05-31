@@ -10,6 +10,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
+| [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 ## Greedy
