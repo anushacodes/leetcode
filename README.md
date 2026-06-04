@@ -13,6 +13,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | [0169-majority-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
@@ -62,6 +64,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +73,24 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
