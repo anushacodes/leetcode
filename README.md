@@ -104,10 +104,12 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -121,4 +123,8 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
