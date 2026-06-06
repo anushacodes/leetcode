@@ -20,6 +20,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions i've solved (mostly Python, but also Go)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
