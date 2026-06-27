@@ -72,6 +72,7 @@ Collection of LeetCode questions i've solved
 | [0344-reverse-string](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/anushacodes/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions i've solved
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anushacodes/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Divide and Conquer
