@@ -12,6 +12,7 @@ Collection of LeetCode questions i've solved
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions i've solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anushacodes/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions i've solved
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
