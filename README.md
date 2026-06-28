@@ -21,6 +21,7 @@ Collection of LeetCode questions i've solved
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anushacodes/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions i've solved
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anushacodes/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -60,6 +62,7 @@ Collection of LeetCode questions i've solved
 | [0242-valid-anagram](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anushacodes/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
