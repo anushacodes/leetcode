@@ -56,6 +56,7 @@ Collection of LeetCode questions i've solved
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions i've solved
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -190,4 +192,8 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
