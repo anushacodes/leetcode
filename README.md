@@ -13,6 +13,7 @@ Collection of LeetCode questions i've solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions i've solved
 | [0018-4sum](https://github.com/anushacodes/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/anushacodes/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions i've solved
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -179,4 +182,12 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
