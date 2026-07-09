@@ -196,4 +196,8 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/anushacodes/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
