@@ -24,6 +24,7 @@ Collection of LeetCode questions i've solved
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anushacodes/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions i've solved
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Hash Table
@@ -188,6 +190,7 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
