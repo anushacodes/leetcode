@@ -192,6 +192,7 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anushacodes/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/anushacodes/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -209,4 +210,12 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anushacodes/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anushacodes/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anushacodes/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
