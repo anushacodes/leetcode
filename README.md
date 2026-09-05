@@ -85,6 +85,7 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/anushacodes/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions i've solved
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anushacodes/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
@@ -203,4 +205,8 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/anushacodes/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anushacodes/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
