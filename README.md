@@ -61,6 +61,7 @@ Collection of LeetCode questions i've solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushacodes/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions i've solved
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/anushacodes/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -222,10 +224,15 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anushacodes/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anushacodes/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anushacodes/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anushacodes/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
