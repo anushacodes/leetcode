@@ -104,6 +104,7 @@ Collection of LeetCode questions i've solved
 | [0011-container-with-most-water](https://github.com/anushacodes/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anushacodes/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/anushacodes/leetcode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anushacodes/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anushacodes/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -225,6 +226,7 @@ Collection of LeetCode questions i've solved
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anushacodes/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anushacodes/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/anushacodes/leetcode/tree/main/0143-reorder-list/) | Medium |
