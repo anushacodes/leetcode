@@ -161,6 +161,7 @@ Collection of LeetCode questions i've solved
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anushacodes/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/anushacodes/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions i've solved
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anushacodes/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushacodes/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anushacodes/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/anushacodes/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions i've solved
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anushacodes/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anushacodes/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/anushacodes/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anushacodes/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
