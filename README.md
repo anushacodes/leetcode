@@ -22,6 +22,7 @@ Collection of LeetCode questions i've solved
 | [0189-rotate-array](https://github.com/anushacodes/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions i've solved
 | [0143-reorder-list](https://github.com/anushacodes/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/anushacodes/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anushacodes/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -139,6 +141,7 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushacodes/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/anushacodes/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anushacodes/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -255,6 +258,7 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anushacodes/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,4 +288,12 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anushacodes/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
