@@ -278,6 +278,7 @@ Collection of LeetCode questions i've solved
 | [0145-binary-tree-postorder-traversal](https://github.com/anushacodes/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +306,12 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
