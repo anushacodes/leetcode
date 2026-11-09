@@ -35,6 +35,7 @@ Collection of LeetCode questions i've solved
 | [0881-boats-to-save-people](https://github.com/anushacodes/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anushacodes/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anushacodes/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anushacodes/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Hash Table
@@ -157,6 +159,7 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anushacodes/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +329,8 @@ Collection of LeetCode questions i've solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anushacodes/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
