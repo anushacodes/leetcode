@@ -31,6 +31,7 @@ Collection of LeetCode questions i've solved
 | [0485-max-consecutive-ones](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/anushacodes/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/anushacodes/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/anushacodes/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anushacodes/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anushacodes/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions i've solved
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0200-number-of-islands](https://github.com/anushacodes/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/anushacodes/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions i've solved
 | [0200-number-of-islands](https://github.com/anushacodes/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/anushacodes/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -309,6 +312,7 @@ Collection of LeetCode questions i've solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/anushacodes/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anushacodes/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/anushacodes/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushacodes/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
