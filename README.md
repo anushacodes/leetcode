@@ -43,6 +43,7 @@ Collection of LeetCode questions i've solved
 | [2126-destroying-asteroids](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anushacodes/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/anushacodes/leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Greedy
